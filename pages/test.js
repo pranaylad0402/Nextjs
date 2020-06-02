@@ -7,7 +7,7 @@ const Test = (props) => (
   <Layout>
     <div>
       <h1>Welcome to Bitcoin Price</h1>
-      <p>Check current Bitcoin rate</p>
+      <p>Check current Bitcoin Price</p>
       <Prices bpi={props.bpi}/>
     </div>
   </Layout>

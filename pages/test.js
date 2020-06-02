@@ -3,7 +3,7 @@ import Layout from '../components/Layout';
 
 import Prices from '../components/Prices';
 
-const Index = (props) => (
+const Test = (props) => (
   <Layout>
     <div>
       <h1>Welcome to Bitcoin Price</h1>
@@ -22,4 +22,4 @@ Index.getInitialProps = async function() {
   };
 }
 
-export default Index;
+export default test;

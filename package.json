@@ -9,6 +9,11 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
+  },
+   "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
   
 }
